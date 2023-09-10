@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Arslan</h1>
 <h3 align="center">I'm developing myself as Frontend Developer.</h3>
 
-<a href="https://bento.me/enesarslan"> <h3 align="left">Connect with me:</h3> </a>
+<a href="https://bento.me/enesarslan"> Connect with me: </a>
 <p align="left">
 </p>
 
